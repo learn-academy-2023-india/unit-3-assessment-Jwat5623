@@ -38,20 +38,29 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 ### Interview Practice Questions
 
 1. What are three (3) syntax difference between HTML and JSX?
-
+<!-- For Naming and Casing:
+HTML uses lowercase and React/JSX uses camelCase
+For Commenting:
+HTML uses the Bang Operator and JSX uses the Backslash/ and Star*
+JSX uses objects for Classes and HTML uses strictly Class -->
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
+<!-- Yarn is the backbone of React, used to install dependencies and run code automatically. Running Yarn installs dependencies -->
 
 3. What is the difference between state values and props in React?
+<!-- State is used to give the components a task and Props is used to change functionality of components  -->
 
 4. STRETCH (optional): What is the difference between a div tag and a span tag?
 
 ### Looking Ahead: Terms for Next Unit
 
 1. Object-oriented programming:
+Object-Oriented Programming is a programming paradigm that organizes code into objects, which are instances of classes. It revolves around the concept of objects, which encapsulate data and behavior, and the interaction between these objects. Key principles of OOP include encapsulation, inheritance, and polymorphism.
 
 2. Ruby:
+Ruby is a dynamic, object-oriented programming language designed for simplicity and productivity. It features a clean syntax and supports multiple programming paradigms, including procedural, functional, and object-oriented programming. Ruby is known for its readability and flexibility, and it is often used for web development with the Ruby on Rails framework.
 
 3. Ruby Hashes:
+In Ruby, a Hash is a collection of key-value pairs. It is similar to an associative array or a dictionary in other programming languages. Hashes are created using curly braces {} or the Hash.new constructor. Each key in a Hash must be unique, and the keys and values can be of any data type. Hashes provide a way to associate data, making it easy to retrieve values based on their corresponding keys.
 
 ---
 

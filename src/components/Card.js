@@ -1,6 +1,6 @@
 import React from "react"
 
-const Card = () => {
+const Card = ({ hand }) => {
   return (
     <div className="handStyles">
       {hand.map((card, index) => {
@@ -13,3 +13,5 @@ const Card = () => {
     </div>
   )
 }
+
+export default Card
